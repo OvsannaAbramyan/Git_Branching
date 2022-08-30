@@ -1,4 +1,4 @@
-
+package Pages;
 
 public class AmazonPages {
 //changes on line 4

@@ -1,4 +1,4 @@
-package pages;
+package Pages;
 
 public class CotactPage {
 
@@ -6,4 +6,3 @@ public class CotactPage {
 //html 
 
 }
-//updates made
